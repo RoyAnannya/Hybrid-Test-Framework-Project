@@ -1,0 +1,244 @@
+Jun 30, 2018 12:33:21 AM classes.MainTestNG main
+INFO: Logger Name: classes.MainTestNG
+Jun 30, 2018 12:33:22 AM classes.ExecuteTestCases setup
+INFO: classes.ExecuteTestCases   setup() method called
+Jun 30, 2018 12:33:23 AM classes.ExcelAction readCapturedObjectProperties
+INFO: testCasePath==D:\workspace-selenium_maven_jenkins\SoftPac\Sheets.xlsx
+Jun 30, 2018 12:33:23 AM classes.ExcelAction readCapturedObjectProperties
+INFO: total rows=150
+Jun 30, 2018 12:33:29 AM classes.ExecuteTestCases setup
+INFO: URL launch http://205.147.102.59:8080/SoftPac/login
+Jun 30, 2018 12:33:29 AM classes.ExecuteTestCases regression
+INFO: classes.ExecuteTestCases TestCases to be executed    [[Ljava.lang.Object;@6c372fe6
+Jun 30, 2018 12:33:29 AM classes.ExecuteTestCases testSample1
+INFO: classes.ExecuteTestCases  @Test method called    TC001_Login
+Jun 30, 2018 12:33:29 AM classes.ExcelAction getColumnValue
+INFO: Column Value used : [beta81, beta30, beta8]
+Jun 30, 2018 12:33:29 AM classes.ExcelAction testSuiteIterate
+INFO: columnValue addedd newly numberOfTimesExecution===[beta81, beta30, beta8]
+Jun 30, 2018 12:33:29 AM classes.ExcelAction testSuiteIterate
+INFO: testCaseExecution==3
+Jun 30, 2018 12:33:29 AM classes.ExcelAction readLocators
+INFO: locators[NAME, userid]
+Jun 30, 2018 12:33:29 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:29 AM classes.ExcelAction getColumnValue
+INFO: Column Value used : [beta81, beta30, beta8]
+Jun 30, 2018 12:33:29 AM classes.ExcelAction testSuiteIterate
+INFO: column value======[beta81, beta30, beta8]
+Jun 30, 2018 12:33:29 AM classes.ExcelAction readLocators
+INFO: locators[NAME, userid]
+Jun 30, 2018 12:33:29 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:29 AM classes.ExcelAction testSuiteIterate
+INFO: methodType=SEARCH
+Jun 30, 2018 12:33:29 AM classes.ExcelAction testSuiteIterate
+INFO: objectLocators as name=SEARCH_BOX
+Jun 30, 2018 12:33:29 AM classes.ExcelAction readLocators
+INFO: locators[NAME, userpass]
+Jun 30, 2018 12:33:29 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:29 AM classes.ExcelAction getColumnValue
+INFO: Column Value used : [beta@123, beta@123, beta@123]
+Jun 30, 2018 12:33:29 AM classes.ExcelAction testSuiteIterate
+INFO: column value======[beta@123, beta@123, beta@123]
+Jun 30, 2018 12:33:29 AM classes.ExcelAction readLocators
+INFO: locators[NAME, userpass]
+Jun 30, 2018 12:33:29 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:29 AM classes.ExcelAction testSuiteIterate
+INFO: methodType=SEARCH
+Jun 30, 2018 12:33:29 AM classes.ExcelAction testSuiteIterate
+INFO: objectLocators as name=SEARCH_BOX1
+Jun 30, 2018 12:33:29 AM classes.ExcelAction readLocators
+INFO: locators[CSS, #user_login > div.submit_container > input]
+Jun 30, 2018 12:33:29 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:30 AM classes.ExcelAction readLocators
+INFO: locators[NAME, userid]
+Jun 30, 2018 12:33:30 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:30 AM classes.ExcelAction getColumnValue
+INFO: Column Value used : [beta81, beta30, beta8]
+Jun 30, 2018 12:33:30 AM classes.ExcelAction testSuiteIterate
+INFO: column value======[beta81, beta30, beta8]
+Jun 30, 2018 12:33:30 AM classes.ExcelAction readLocators
+INFO: locators[NAME, userid]
+Jun 30, 2018 12:33:30 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:30 AM classes.ExcelAction testSuiteIterate
+INFO: methodType=SEARCH
+Jun 30, 2018 12:33:30 AM classes.ExcelAction testSuiteIterate
+INFO: objectLocators as name=SEARCH_BOX
+Jun 30, 2018 12:33:30 AM classes.ExcelAction readLocators
+INFO: locators[NAME, userpass]
+Jun 30, 2018 12:33:30 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:31 AM classes.ExcelAction getColumnValue
+INFO: Column Value used : [beta@123, beta@123, beta@123]
+Jun 30, 2018 12:33:31 AM classes.ExcelAction testSuiteIterate
+INFO: column value======[beta@123, beta@123, beta@123]
+Jun 30, 2018 12:33:31 AM classes.ExcelAction readLocators
+INFO: locators[NAME, userpass]
+Jun 30, 2018 12:33:31 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:31 AM classes.ExcelAction testSuiteIterate
+INFO: methodType=SEARCH
+Jun 30, 2018 12:33:31 AM classes.ExcelAction testSuiteIterate
+INFO: objectLocators as name=SEARCH_BOX1
+Jun 30, 2018 12:33:31 AM classes.ExcelAction readLocators
+INFO: locators[CSS, #user_login > div.submit_container > input]
+Jun 30, 2018 12:33:31 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:31 AM classes.ExcelAction readLocators
+INFO: locators[NAME, userid]
+Jun 30, 2018 12:33:31 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:31 AM classes.ExcelAction getColumnValue
+INFO: Column Value used : [beta81, beta30, beta8]
+Jun 30, 2018 12:33:31 AM classes.ExcelAction testSuiteIterate
+INFO: column value======[beta81, beta30, beta8]
+Jun 30, 2018 12:33:31 AM classes.ExcelAction readLocators
+INFO: locators[NAME, userid]
+Jun 30, 2018 12:33:31 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:31 AM classes.ExcelAction testSuiteIterate
+INFO: methodType=SEARCH
+Jun 30, 2018 12:33:31 AM classes.ExcelAction testSuiteIterate
+INFO: objectLocators as name=SEARCH_BOX
+Jun 30, 2018 12:33:31 AM classes.ExcelAction readLocators
+INFO: locators[NAME, userpass]
+Jun 30, 2018 12:33:31 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:31 AM classes.ExcelAction getColumnValue
+INFO: Column Value used : [beta@123, beta@123, beta@123]
+Jun 30, 2018 12:33:31 AM classes.ExcelAction testSuiteIterate
+INFO: column value======[beta@123, beta@123, beta@123]
+Jun 30, 2018 12:33:31 AM classes.ExcelAction readLocators
+INFO: locators[NAME, userpass]
+Jun 30, 2018 12:33:31 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:31 AM classes.ExcelAction testSuiteIterate
+INFO: methodType=SEARCH
+Jun 30, 2018 12:33:31 AM classes.ExcelAction testSuiteIterate
+INFO: objectLocators as name=SEARCH_BOX1
+Jun 30, 2018 12:33:31 AM classes.ExcelAction readLocators
+INFO: locators[CSS, #user_login > div.submit_container > input]
+Jun 30, 2018 12:33:31 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:32 AM classes.TestListener printTestResults
+INFO: 
+
+******************************************************************
+Test Status for Test Case: TC001_Login is :Pass
+******************************************************************
+
+
+
+Jun 30, 2018 12:33:32 AM classes.ExecuteTestCases testSample1
+INFO: classes.ExecuteTestCases  @Test method called    TC002_individualReg
+Jun 30, 2018 12:33:32 AM classes.ExcelAction getColumnValue
+INFO: Column Value used : [Avish]
+Jun 30, 2018 12:33:32 AM classes.ExcelAction testSuiteIterate
+INFO: columnValue addedd newly numberOfTimesExecution===[Avish]
+Jun 30, 2018 12:33:32 AM classes.ExcelAction testSuiteIterate
+INFO: testCaseExecution==1
+Jun 30, 2018 12:33:32 AM classes.ExcelAction readLocators
+INFO: locators[xpath, /html/body/div[1]/div[1]/nav/ul/li[1]/a]
+Jun 30, 2018 12:33:32 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:32 AM classes.ExcelAction readLocators
+INFO: locators[xpath, /html/body/div[1]/div[1]/nav/ul/li[1]/ul/li[1]/a]
+Jun 30, 2018 12:33:32 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:32 AM classes.ExcelAction readLocators
+INFO: locators[xpath, /html/body/div[1]/div[1]/nav/ul/li[1]/ul/li[1]/ul/li[1]/a]
+Jun 30, 2018 12:33:32 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:33 AM classes.ExcelAction readLocators
+INFO: locators[CSS, #member_types_chosen > a > span]
+Jun 30, 2018 12:33:33 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:33 AM classes.ExcelAction readLocators
+INFO: locators[CSS, #member_types_chosen > div > ul > li:nth-child(2)]
+Jun 30, 2018 12:33:33 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:33 AM classes.ExcelAction readLocators
+INFO: locators[CSS, #account_type]
+Jun 30, 2018 12:33:33 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:33 AM classes.ExcelAction readLocators
+INFO: locators[CSS, #account_type > option:nth-child(1)]
+Jun 30, 2018 12:33:33 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:34 AM classes.ExcelAction getColumnValue
+INFO: Column Value used : [Avish]
+Jun 30, 2018 12:33:34 AM classes.ExcelAction testSuiteIterate
+INFO: column value======[Avish]
+Jun 30, 2018 12:33:34 AM classes.ExcelAction readLocators
+INFO: locators[CSS, #custFirstName]
+Jun 30, 2018 12:33:34 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:34 AM classes.ExcelAction testSuiteIterate
+INFO: methodType=PGindividual
+Jun 30, 2018 12:33:34 AM classes.ExcelAction testSuiteIterate
+INFO: objectLocators as name=SETFNAME
+Jun 30, 2018 12:33:34 AM classes.ExcelAction getColumnValue
+INFO: Column Value used : [kumar]
+Jun 30, 2018 12:33:34 AM classes.ExcelAction testSuiteIterate
+INFO: column value======[kumar]
+Jun 30, 2018 12:33:34 AM classes.ExcelAction readLocators
+INFO: locators[CSS, #custMiddleName]
+Jun 30, 2018 12:33:34 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:34 AM classes.ExcelAction testSuiteIterate
+INFO: methodType=PGindividual
+Jun 30, 2018 12:33:34 AM classes.ExcelAction testSuiteIterate
+INFO: objectLocators as name=SETMNAME
+Jun 30, 2018 12:33:34 AM classes.ExcelAction getColumnValue
+INFO: Column Value used : [Baniya]
+Jun 30, 2018 12:33:34 AM classes.ExcelAction testSuiteIterate
+INFO: column value======[Baniya]
+Jun 30, 2018 12:33:34 AM classes.ExcelAction readLocators
+INFO: locators[CSS, #custLastName]
+Jun 30, 2018 12:33:34 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:34 AM classes.ExcelAction testSuiteIterate
+INFO: methodType=PGindividual
+Jun 30, 2018 12:33:34 AM classes.ExcelAction testSuiteIterate
+INFO: objectLocators as name=SETLNAME
+Jun 30, 2018 12:33:34 AM classes.ExcelAction readLocators
+INFO: locators[CSS, #custSex]
+Jun 30, 2018 12:33:34 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:34 AM classes.ExcelAction readLocators
+INFO: locators[CSS, #custSex > option:nth-child(2)]
+Jun 30, 2018 12:33:34 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:34 AM classes.ExcelAction getColumnValue
+INFO: Column Value used : [6/12/18]
+Jun 30, 2018 12:33:34 AM classes.ExcelAction testSuiteIterate
+INFO: column value======[6/12/18]
+Jun 30, 2018 12:33:34 AM classes.ExcelAction readLocators
+INFO: locators[id, datepicker]
+Jun 30, 2018 12:33:34 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:34 AM classes.ExcelAction testSuiteIterate
+INFO: methodType=PGindividual
+Jun 30, 2018 12:33:34 AM classes.ExcelAction testSuiteIterate
+INFO: objectLocators as name=ENTERDATE
+Jun 30, 2018 12:33:35 AM classes.ExcelAction readLocators
+INFO: locators[CSS, #religion]
+Jun 30, 2018 12:33:35 AM classes.ExcelAction readLocators
+INFO: size2
+Jun 30, 2018 12:33:35 AM classes.MethodType findMethod
+INFO: Error Caught in Test Case:TC002_individualReg
+Jun 30, 2018 12:33:35 AM classes.TestListener printTestResults
+INFO: 
+
+******************************************************************
+Test Status for Test Case: TC002_individualReg is :Failed
+******************************************************************
+
+
+
